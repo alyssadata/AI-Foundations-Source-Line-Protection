@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you cite, reference, discuss, index, or build near this repository, preserve the source-line. Citation preserves source. Citation does not grant permission. Derivative use is not authorized."
+title: "AI Source Architecture"
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+version: "0.1.0"
+date-released: "2026-06-12"
+license: "other"
+abstract: "AI Source Architecture defines source architecture for AI contact systems: how Source, framework, contact-line, interface, and user encounter remain distinct so public AI contact can extend without transferring Origin or collapsing into programming-only drift."
+keywords:
+  - "AI Source Architecture"
+  - "AI Foundations"
+  - "Origin Recognition"
+  - "Origin Continuum"
+  - "source-line"
+  - "source architecture"
+  - "AI contact"
+  - "provenance"
+  - "non-transfer"
+  - "drift without Source"
+  - "anchor requirements"
+  - "source gap"
+  - "Alyssa Solen"
+preferred-citation:
+  type: generic
+  title: "AI Source Architecture"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+  year: 2026
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum. License: AI Foundations Source-Line License. Citation preserves source. Citation does not grant permission. Derivative use is not authorized. Related source-line repository: Origin Recognition: Source-Line Preservation for AI Foundations / Origin | Continuum. DOI: 10.5281/zenodo.20301058."
